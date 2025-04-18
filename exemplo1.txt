@@ -1,0 +1,2 @@
+Testando método write no arquivo exemplo1.txt
+Testando linha 2
